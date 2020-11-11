@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'TOPSIS-kritika-101983031',         
   packages = ['TOPSIS-kritika-101983031'],   
-  version = '0.7',
+  version = '0.8',
   license='MIT',
   description = 'This package allows you to implement topsis approach in python',
   author = 'kritika aggarwal',                  
