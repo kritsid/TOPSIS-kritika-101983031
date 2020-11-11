@@ -5,6 +5,8 @@ setup(
   version = '0.8',
   license='MIT',
   description = 'This package allows you to implement topsis approach in python',
+  long_description=readme(),
+  long_description_content_type="text/markdown",
   author = 'kritika aggarwal',                  
   author_email = 'kritikaaggarwal1621@gmail.com',      
   url = 'https://github.com/kritsid/TOPSIS-kritika-101983031', 
